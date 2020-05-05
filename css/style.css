@@ -315,6 +315,16 @@ input:focus, textarea:focus, select:focus, button:focus {
 
 
 /*---------- Portfolio css Start -------*/
+.project_description h2 
+{
+    color:#FDD330
+}
+.project_description .link
+{
+    text-align: left; font-weight: bold;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
 .prt_portfolio_wrapper{
     background-color: #010101;
     position: absolute;
