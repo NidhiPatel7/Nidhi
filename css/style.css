@@ -691,4 +691,8 @@ input:focus, textarea:focus, select:focus, button:focus {
 .prt_heading h1 {
     font-size: 34px;
 }
+.prt_portfolio_wrapper
+{
+    padding:0 20px;
+}
 }
